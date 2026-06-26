@@ -32,7 +32,7 @@ This project is an end-to-end product analytics case study using the Instacart M
 Instacart-Order-Analysis/
 ├── README.md
 ├── BUSINESS_MEMO.md
-├── BUSINESS_MEMO.pdf
+├── Business_Memo.pdf
 ├── Queries/
 │   ├── 01_product_health.sql
 │   ├── 02_best_sellers.sql
