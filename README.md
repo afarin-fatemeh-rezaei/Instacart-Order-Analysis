@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project is an end-to-end product analytics case study using the Instacart Market Basket Dataset. It demonstrates the full workflow of a Data Analyst: from data engineering (PostgreSQL) to statistical analysis (Python) to business visualization (Looker Studio).
+This project is an end-to-end product analytics case study using the Instacart Market Basket Dataset. It demonstrates the full workflow of a Data Analyst: from data engineering (PostgreSQL) to statistical analysis (Python) to business visualization (Data Studio).
 
 **Dataset:** 3.4 million grocery orders, 131,000 unique users, and 49,000 products.
 
@@ -21,7 +21,7 @@ This project is an end-to-end product analytics case study using the Instacart M
 | **PostgreSQL** | Data warehousing, complex SQL queries, indexing for performance |
 | **pgAdmin** | Database management and query execution |
 | **Python** | Statistical validation (T-Test), data visualization (Boxplot), automation |
-| **Looker Studio** | Interactive dashboard for stakeholders |
+| **Data Studio** | Interactive dashboard for stakeholders |
 | **GitHub** | Version control and portfolio hosting |
 
 ---
@@ -97,7 +97,7 @@ The Python script (`instacart_analysis.py`) does the following:
 
 ## 📈 Live Dashboard
 
-An interactive dashboard was built in Looker Studio to present findings to stakeholders.
+An interactive dashboard was built in Data Studio to present findings to stakeholders.
 
 🔗 **Dashboard Link:** [Click Here to View](https://datastudio.google.com/reporting/8fac75f1-af58-4064-a7d0-dd44ffdac431)
 
@@ -125,7 +125,7 @@ An interactive dashboard was built in Looker Studio to present findings to stake
 ### Prerequisites
 - PostgreSQL installed (v15 or higher)
 - Python 3.10+ with required libraries: `psycopg2-binary`, `pandas`, `scipy`, `matplotlib`, `seaborn`
-- Looker Studio account (free with Google account)
+- Data Studio account (free with Google account)
 
 ### Step 1: Database Setup
 1. Download the Instacart Market Basket Dataset from Kaggle.
@@ -139,7 +139,7 @@ An interactive dashboard was built in Looker Studio to present findings to stake
 3. Run the Python script: `python instacart_analysis.py`
 
 ### Step 3: Build the Dashboard
-1. Upload all CSV files to Looker Studio.
+1. Upload all CSV files to Data Studio.
 2. Build scorecards, bar charts, and pie charts as shown in the README.
 3. Share publicly and embed the link.
 
@@ -154,4 +154,4 @@ This project is for educational and portfolio purposes. Data sourced from the In
 ## ⭐ Acknowledgments
 
 - Instacart for providing the public dataset.
-- PostgreSQL, Python, and Looker Studio for their powerful open-source and free tools.
+- PostgreSQL, Python, and Data Studio for their powerful open-source and free tools.
