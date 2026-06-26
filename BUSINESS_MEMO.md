@@ -62,5 +62,5 @@ This analysis was conducted on 3.4 million grocery orders to identify growth lev
 
 ## Appendix
 
-- **Tools Used:** PostgreSQL, Python (Pandas, Scipy, Matplotlib), Looker Studio.
+- **Tools Used:** PostgreSQL, Python (Pandas, Scipy, Matplotlib), Data Studio.
 - **Data Sample:** Instacart Market Basket Dataset (3.4M orders, 130k users).
